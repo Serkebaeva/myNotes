@@ -1,0 +1,1 @@
+- Document Object Model - this is  a model that represents [[object]] or **elements** in our [[html]] document. Many of those building blocks or elements  of our page(like images or some [[div]] blocks, paragraphs of text, [[links]] and other stuff).

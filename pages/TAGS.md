@@ -1,0 +1,1 @@
+- An [[html]] [[element ]]is set off from other text in a document by  **"tags"**, which consist of the element name surrounded by `<` and `>`. The name of an element inside a tag is [[case-insensitive]]. That is, it can be written as Title or title or in any other mixed way; but the convention requires to be practical and write tags in **lowercase**.

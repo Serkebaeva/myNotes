@@ -1,0 +1,2 @@
+- **User Data - Payload**
+	- Payload is the data that is carried on behalf of an application. It is usually of variable length, up to a maximum that is set by the network protocol and sometimes the equipment on the route.

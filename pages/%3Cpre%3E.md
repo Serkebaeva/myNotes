@@ -1,0 +1,4 @@
+- element represents preformatted text which is to be presented exactly as written in the HTML file. The text is typically rendered using a non-proportional, or [monospaced] font.
+- `<pre>` elements' text content is parsed as HTML, so if you want to ensure that your text content stays as plain text, some syntax characters, such as `<`, may need to be **escaped** using their respective [[character references]]. See [escaping ambiguous characters](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/pre#escaping_ambiguous_characters) for more information.
+-
+-

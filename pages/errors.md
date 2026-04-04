@@ -1,0 +1,1 @@
+aliases:: Error, bug, bugs

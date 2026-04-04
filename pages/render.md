@@ -1,0 +1,9 @@
+- render /ˈrɛndə/
+- 1. provide or give (a service, help, etc.).
+	- "money serves as a reward for **services rendered**"
+- 2. cause to be or become; make.
+	- "the rains rendered his escape impossible"
+- 3. tech => means **to take data or state and turn it into something visible (UI)**.
+	- **Render = display output**
+	- Usually:
+	- data → HTML → screen
