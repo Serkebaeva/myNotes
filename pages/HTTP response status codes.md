@@ -1,0 +1,1 @@
+aliases:: status, Exit status
